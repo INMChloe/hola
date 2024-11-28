@@ -1,0 +1,34 @@
+body {
+    background-image: url(images/kfc.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+h3{
+    text-align: center;
+    text-shadow: 2px 2px white;
+}
+form{
+    text-align: center;
+    margin: 15px;
+}
+main{
+    background-color:rgba(61, 52, 52, 0.699);
+}
+.nav{
+    justify-content: space-between;
+}
+header {
+    background-color: white;
+    color: black;
+    padding: 1em;
+    text-align: center;
+}
+footer {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+}
